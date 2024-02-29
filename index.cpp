@@ -15,9 +15,8 @@ int main() {
         for (int k = 0; k <= i; k++) {
             cout << "*";
         }
-        for (int k = 1; k <= i; k++) {
+        for (int h = 1; h <= i; h++) {
             cout << a;
-        
         }
         a++;
         cout << endl;
